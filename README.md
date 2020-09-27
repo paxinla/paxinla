@@ -1,13 +1,27 @@
 <!-- Thanks for MartinHeinz. More info, tips and tricks for making GitHub Profile README can be found in his article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/paxinla/paxinla/master/rabbits.gif" style="margin: 0 auto;" />
-</div>
-
-[![Header](https://raw.githubusercontent.com/paxinla/paxinla/master/rabbits.gif)](https://paxinla.github.io/)
+```
+                       _oo0oo_
+                      o8888888o
+                      88" . "88
+                      (| -_- |)
+                      0\  =  /0
+                   ____/`___'\____
+                 .'  \\|     |//  `.
+                /  \\|||  :  |||//  \
+               /  _||||| -:- |||||-  \
+               |   | \\\  -  /// |   |
+               | \_|  ''\---/''  |   |
+               \  .-\__  `-`  ___/-. /
+             ___`. .'  /--.--\  `. . __
+          ."" '<  `.___\_<|>_/___.'  >'"".
+         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+         \  \ `_.   \_ __\ /__ _/   .-` /  /
+    ======`-.____`-.___\_____/___.-`____.-'======
+```
 
 <h1 align='center'> Hello! <img src="https://raw.githubusercontent.com/paxinla/paxinla/master/wave.gif" width="30px"></h1>
-<p align='center'> I'm Charles and I'm a data engineer. You can find me on <a href="https://v2ex.com/member/Aksura" rel="nofollow"><img src="https://v2ex.com/static/img/v2ex@2x.png" alt="v2ex" title="v2ex icon" data-canonical-src="https://v2ex.com/static/img/v2ex@2x.png" style="max-width:100%; width:35px; height:12px;"></a>. </p>
+<p align='center'> I'm Charles and I'm a data engineer. You can find me on <a href="https://v2ex.com/member/Aksura" rel="nofollow"><img src="https://v2ex.com/static/img/v2ex@2x.png" alt="v2ex" title="v2ex icon" data-canonical-src="https://v2ex.com/static/img/v2ex@2x.png" /></a>. </p>
 <p align='center'> You can find my articles on my blog <a href="https://paxinla.github.io">paxinla.github.io</a></p>
 
 ## 🔧 Technologies & Tools
