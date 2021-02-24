@@ -36,4 +36,4 @@
 
 ------
 
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/paxinla
+![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/paxinla)
